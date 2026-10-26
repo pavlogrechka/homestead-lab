@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 960" width="540" height="960" font-family="Arial, sans-serif">
+<rect width="540" height="960" fill="#ffffff"/>
+<text x="270" y="30" text-anchor="middle" font-size="15" font-weight="bold">Розміщення на ділянці 20 × 50 м</text>
+<text x="270" y="50" text-anchor="middle" font-size="12">Варіант A: центральний водогін, колодязя немає. 1 м = 12 px</text>
+<rect x="70" y="66" width="320" height="26" fill="#d9d9d9"/>
+<text x="230.0" y="84" text-anchor="middle" font-size="12">вулиця (червона лінія)</text>
+<rect x="110" y="100" width="240" height="600" fill="#f6fbf2" stroke="#333" stroke-width="2"/>
+<rect x="146" y="136" width="168" height="528" fill="none" stroke="#c0392b" stroke-dasharray="6 4"/>
+<text x="150" y="150" font-size="10" fill="#c0392b">лінія відступу 3 м</text>
+<rect x="146" y="136" width="120" height="144" fill="#f4c7a1" stroke="#333" stroke-width="1.2"/>
+<text x="206.0" y="206.0" text-anchor="middle" font-size="12" font-weight="bold">Житловий будинок</text>
+<text x="206.0" y="219.0" text-anchor="middle" font-size="10">10 × 12 м</text>
+<rect x="146" y="400" width="72" height="72" fill="#b8c4d6" stroke="#333" stroke-width="1.2"/>
+<text x="182.0" y="434.0" text-anchor="middle" font-size="12" font-weight="bold">Гараж</text>
+<text x="182.0" y="447.0" text-anchor="middle" font-size="10">6 × 6 м</text>
+<rect x="254" y="496" width="60" height="72" fill="#c9c9c9" stroke="#333" stroke-width="1.2"/>
+<text x="284.0" y="530.0" text-anchor="middle" font-size="12" font-weight="bold">Сарай</text>
+<text x="284.0" y="543.0" text-anchor="middle" font-size="10">5 × 6 м</text>
+<rect x="146" y="592" width="18.0" height="18.0" fill="#8e6b3e" stroke="#333" stroke-width="1.2"/>
+<text x="155.0" y="599.0" text-anchor="middle" font-size="12" font-weight="bold"></text>
+<rect x="278" y="352" width="18.0" height="18.0" fill="#7fb3d5" stroke="#333" stroke-width="1.2"/>
+<text x="287.0" y="359.0" text-anchor="middle" font-size="12" font-weight="bold"></text>
+<line x1="155.0" y1="604" x2="362" y2="604" stroke="#555" stroke-width="0.8"/>
+<text x="366" y="608" text-anchor="start" font-size="11" font-weight="bold">Вбиральня / компост</text>
+<line x1="290" y1="364" x2="362" y2="364" stroke="#555" stroke-width="0.8"/>
+<text x="366" y="368" text-anchor="start" font-size="11" font-weight="bold">Септик ≤1 м³</text>
+<line x1="188.0" y1="280" x2="188.0" y2="400" stroke="#222"/>
+<line x1="184.0" y1="280" x2="192.0" y2="280" stroke="#222"/>
+<line x1="184.0" y1="400" x2="192.0" y2="400" stroke="#222"/>
+<text x="194.0" y="344.0" font-size="11" font-weight="bold" fill="#222">10 м (табл. 10.6)</text>
+<line x1="333.20000000000005" y1="280" x2="333.20000000000005" y2="496" stroke="#222"/>
+<line x1="329.20000000000005" y1="280" x2="337.20000000000005" y2="280" stroke="#222"/>
+<line x1="329.20000000000005" y1="496" x2="337.20000000000005" y2="496" stroke="#222"/>
+<text x="339.20000000000005" y="392.0" font-size="11" font-weight="bold" fill="#222">18 м (табл. 6.7)</text>
+<line x1="126.8" y1="280" x2="126.8" y2="592" stroke="#222"/>
+<line x1="122.8" y1="280" x2="130.8" y2="280" stroke="#222"/>
+<line x1="122.8" y1="592" x2="130.8" y2="592" stroke="#222"/>
+<text x="104" y="440.0" text-anchor="end" font-size="11" font-weight="bold" fill="#222">26 м (табл. 6.7)</text>
+<text x="360" y="116" font-size="11">вулиця ↑</text>
+<text x="70" y="735" font-size="13" font-weight="bold">Відстані (ДБН Б.2.2-12:2019, Зміна № 1)</text>
+<text x="70" y="759" font-size="12">Будинок — гараж: <tspan font-weight="bold">10 м</tspan>  —  норма ≥ 10 м (табл. 10.6)</text>
+<text x="70" y="779" font-size="12">Будинок — сарай: <tspan font-weight="bold">18 м</tspan>  —  норма ≥ 15 м (табл. 6.7)</text>
+<text x="70" y="799" font-size="12">Будинок — вбиральня: <tspan font-weight="bold">26 м</tspan>  —  норма ≥ 20 м (табл. 6.7)</text>
+<text x="70" y="819" font-size="12">Будинок — септик: <tspan font-weight="bold">6,1 м</tspan>  —  норма ≥ 5 м (табл. 6.7)</text>
+<text x="70" y="839" font-size="12">Будівлі — межі ділянки: <tspan font-weight="bold">≥ 3 м</tspan>  —  норма ≥ 3 м (п. 6.1.41)</text>
+<text x="70" y="925" font-size="11" fill="#777">Схема умовна: форма ділянки і сторони світу уточнюються.</text>
+<text x="70" y="941" font-size="11" fill="#777">Не перевірено: протипожежні відстані (табл. 15.2) і відстані септика до межі.</text>
+</svg>
