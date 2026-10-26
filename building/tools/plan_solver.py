@@ -19,6 +19,15 @@ V = {
  'V5': dict(W=82, D=97, rooms={  # ext 9 x 10.5: separate kitchen/living, separate bath & toilet, store
    'hall':(88,100,23),'kit':(115,130,24),'liv':(161,168,32),'bed1':(92,102,25),'bed2':(92,102,25),
    'bath':(34,38,15),'toilet':(16,18,9),'tech':(30,34,14),'store':(30,34,14)}),
+ 'V6': dict(W=82, D=92, rooms={  # A-type: ext 9 x 10, separate kitchen/living, combined bath, store; master 12+ and small 9
+   'hall':(88,100,23),'kit':(115,130,24),'liv':(161,168,32),'bed1':(120,125,28),'bed2':(90,93,24),
+   'bath':(50,54,17),'tech':(30,34,14),'store':(30,34,14)}),
+ 'V7': dict(W=82, D=97, rooms={  # B-type: ext 9 x 10.5, separate kitchen/living, separate bath+toilet, store
+   'hall':(88,100,23),'kit':(115,130,24),'liv':(161,168,32),'bed1':(120,125,28),'bed2':(90,93,24),
+   'bath':(34,38,15),'toilet':(16,18,9),'tech':(30,34,14),'store':(30,34,14)}),
+ 'V8': dict(W=82, D=92, rooms={  # C-type: ext 9 x 10, open kitchen-living, separate bath+toilet, store
+   'hall':(88,100,23),'kitliv':(245,270,32),'bed1':(120,125,28),'bed2':(90,93,24),
+   'bath':(34,38,15),'toilet':(16,18,9),'tech':(30,34,14),'store':(30,34,14)}),
 }
 cfg = V[variant]; W, D = cfg['W'], cfg['D']
 R = {k: (a*10, t*10, d) for k, (a, t, d) in cfg['rooms'].items()}

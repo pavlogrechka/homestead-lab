@@ -6,7 +6,7 @@ EW, EH = Wi + 2*T, Di + 2*T
 X0, Y0 = 130.0, 150.0
 def X(x): return X0 + (x+T)*S      # internal metres -> px
 def Y(y): return Y0 + (y+T)*S
-NAMES = {'hall':'Хол','kit':'Кухня-їдальня','liv':'Вітальня','kitliv':'Кухня-вітальня','bed1':'Спальня 1','bed2':'Спальня 2',
+NAMES = {'hall':'Хол','kit':'Кухня-їдальня','liv':'Вітальня','kitliv':'Кухня-вітальня','bed1':'Спальня 1 (двоспальна)','bed2':'Спальня 2 (односпальна)',
          'bath':'Ванна','toilet':'Туалет','tech':'Котельня','store':'Комора','corr':'Коридор'}
 FILL = {'hall':'#f3f3f3','kit':'#fdf0d5','liv':'#fbe3c8','kitliv':'#fbe9cf','bed1':'#e8d5f0','bed2':'#e8d5f0','bath':'#d6eaf8',
         'toilet':'#d6eaf8','tech':'#e6e6e6','store':'#ececec','corr':'#f6f6f6'}
