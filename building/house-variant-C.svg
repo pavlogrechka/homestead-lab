@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 1340" width="820" height="1340" font-family="Arial, sans-serif">
+<rect width="820" height="1340" fill="#ffffff"/>
+<text x="410.0" y="34" text-anchor="middle" font-size="18" font-weight="bold">Варіант C: 9,0 × 10,0 м, відкрита кухня-вітальня, комора</text>
+<text x="410.0" y="56" text-anchor="middle" font-size="12" fill="#444">Роздільні ванна й туалет, коридор, вхід із заходу через тамбур</text>
+<text x="410.0" y="74" text-anchor="middle" font-size="11" fill="#777">Умовний масштаб: 1 м = 54 px. Розміри в метрах. Стіни: зовнішня 0,40, перегородки 0,10.</text>
+<rect x="130.0" y="150.0" width="486.0" height="540.0" fill="#4a4a4a"/>
+<rect x="151.6" y="171.6" width="442.8" height="496.8" fill="#ffffff"/>
+<rect x="151.6" y="274.2" width="162.0" height="178.2" fill="#f3f3f3" stroke="#555" stroke-width="3"/>
+<rect x="313.6" y="171.6" width="280.8" height="280.8" fill="#fbe9cf" stroke="#555" stroke-width="3"/>
+<rect x="373.0" y="533.4" width="221.4" height="135.0" fill="#e8d5f0" stroke="#555" stroke-width="3"/>
+<rect x="151.6" y="533.4" width="221.4" height="135.0" fill="#e8d5f0" stroke="#555" stroke-width="3"/>
+<rect x="205.6" y="171.6" width="108.0" height="102.6" fill="#d6eaf8" stroke="#555" stroke-width="3"/>
+<rect x="151.6" y="171.6" width="54.0" height="102.6" fill="#d6eaf8" stroke="#555" stroke-width="3"/>
+<rect x="443.2" y="452.4" width="151.2" height="81.0" fill="#e6e6e6" stroke="#555" stroke-width="3"/>
+<rect x="151.6" y="452.4" width="108.0" height="81.0" fill="#ececec" stroke="#555" stroke-width="3"/>
+<rect x="259.6" y="452.4" width="183.6" height="81.0" fill="#f6f6f6" stroke="#555" stroke-width="3"/>
+<rect x="151.6" y="301.2" width="81.0" height="118.8" fill="#dff0e0" stroke="#555" stroke-width="3"/>
+<text x="273.1" y="355.3" text-anchor="middle" font-size="12" font-weight='bold'>Перед-</text>
+<text x="273.1" y="368.3" text-anchor="middle" font-size="11" >покій</text>
+<text x="273.1" y="381.3" text-anchor="middle" font-size="11" >6,6 м²</text>
+<text x="454.0" y="308.0" text-anchor="middle" font-size="12" font-weight='bold'>Кухня-вітальня</text>
+<text x="454.0" y="321.0" text-anchor="middle" font-size="11" >27,0 м²</text>
+<text x="483.7" y="596.9" text-anchor="middle" font-size="12" font-weight='bold'>Спальня 1</text>
+<text x="483.7" y="609.9" text-anchor="middle" font-size="11" >10,2 м²</text>
+<text x="262.3" y="596.9" text-anchor="middle" font-size="12" font-weight='bold'>Спальня 2</text>
+<text x="262.3" y="609.9" text-anchor="middle" font-size="11" >10,2 м²</text>
+<text x="259.6" y="218.9" text-anchor="middle" font-size="12" font-weight='bold'>Ванна</text>
+<text x="259.6" y="231.9" text-anchor="middle" font-size="11" >3,8 м²</text>
+<text x="178.6" y="222.9" text-anchor="middle" font-size="9" >Туалет</text>
+<text x="178.6" y="232.9" text-anchor="middle" font-size="8" >1,9 м²</text>
+<text x="518.8" y="488.9" text-anchor="middle" font-size="10" font-weight='bold'>Котельня</text>
+<text x="518.8" y="499.9" text-anchor="middle" font-size="9" >4,2 м²</text>
+<text x="205.6" y="488.9" text-anchor="middle" font-size="10" font-weight='bold'>Комора</text>
+<text x="205.6" y="499.9" text-anchor="middle" font-size="9" >3,0 м²</text>
+<text x="351.4" y="488.9" text-anchor="middle" font-size="10" font-weight='bold'>Коридор</text>
+<text x="351.4" y="499.9" text-anchor="middle" font-size="9" >5,1 м²</text>
+<text x="192.1" y="358.6" text-anchor="middle" font-size="9" font-weight="bold">Тамбур</text>
+<text x="192.1" y="370.6" text-anchor="middle" font-size="9">3,3 м²</text>
+<rect x="309.8" y="339.0" width="7.6" height="48.6" fill="#ffffff"/>
+<line x1="313.6" y1="339.0" x2="362.2" y2="339.0" stroke="#777"/>
+<path d="M 362.2 339.0 A 48.6 48.6 0 0 0 313.6 387.6" fill="none" stroke="#999" stroke-width="0.8"/>
+<rect x="383.8" y="529.6" width="48.6" height="7.6" fill="#ffffff"/>
+<line x1="383.8" y1="533.4" x2="383.8" y2="582.0" stroke="#777"/>
+<path d="M 383.8 582.0 A 48.6 48.6 0 0 0 432.4 533.4" fill="none" stroke="#999" stroke-width="0.8"/>
+<rect x="292.0" y="529.6" width="48.6" height="7.6" fill="#ffffff"/>
+<line x1="292.0" y1="533.4" x2="292.0" y2="582.0" stroke="#777"/>
+<path d="M 292.0 582.0 A 48.6 48.6 0 0 0 340.6 533.4" fill="none" stroke="#999" stroke-width="0.8"/>
+<rect x="238.0" y="270.4" width="43.2" height="7.6" fill="#ffffff"/>
+<line x1="238.0" y1="274.2" x2="238.0" y2="317.4" stroke="#777"/>
+<path d="M 238.0 317.4 A 43.2 43.2 0 0 0 281.2 274.2" fill="none" stroke="#999" stroke-width="0.8"/>
+<rect x="157.0" y="270.4" width="43.2" height="7.6" fill="#ffffff"/>
+<line x1="157.0" y1="274.2" x2="157.0" y2="317.4" stroke="#777"/>
+<path d="M 157.0 317.4 A 43.2 43.2 0 0 0 200.2 274.2" fill="none" stroke="#999" stroke-width="0.8"/>
+<rect x="439.4" y="471.3" width="7.6" height="43.2" fill="#ffffff"/>
+<line x1="443.2" y1="471.3" x2="486.4" y2="471.3" stroke="#777"/>
+<path d="M 486.4 471.3 A 43.2 43.2 0 0 0 443.2 514.5" fill="none" stroke="#999" stroke-width="0.8"/>
+<rect x="184.0" y="448.6" width="43.2" height="7.6" fill="#ffffff"/>
+<line x1="184.0" y1="452.4" x2="184.0" y2="495.6" stroke="#777"/>
+<path d="M 184.0 495.6 A 43.2 43.2 0 0 0 227.2 452.4" fill="none" stroke="#999" stroke-width="0.8"/>
+<rect x="228.8" y="336.3" width="7.6" height="48.6" fill="#ffffff"/>
+<line x1="232.6" y1="336.3" x2="232.6" y2="384.9" stroke="#777"/>
+<rect x="129.0" y="333.6" width="23.6" height="54.0" fill="#ffffff"/>
+<path d="M 151.6 333.6 A 54.0 54.0 0 0 0 97.6 387.6" fill="none" stroke="#777" stroke-width="0.8"/>
+<line x1="151.6" y1="333.6" x2="97.6" y2="333.6" stroke="#777"/>
+<text x="122.0" y="401.6" text-anchor="end" font-size="11" font-weight="bold">вхід</text>
+<rect x="238.0" y="420.0" width="70.2" height="32.4" fill="#cfd8dc" stroke="#607d8b" stroke-dasharray="3 2"/>
+<text x="273.1" y="439.2" text-anchor="middle" font-size="8">шафа</text>
+<rect x="400.0" y="150.0" width="108.0" height="21.6" fill="#ffffff"/>
+<rect x="400.0" y="157.6" width="108.0" height="6.5" fill="#9fd0ff" stroke="#2874a6" stroke-width="0.8"/>
+<rect x="594.4" y="258.0" width="21.6" height="108.0" fill="#ffffff"/>
+<rect x="602.0" y="258.0" width="6.5" height="108.0" fill="#9fd0ff" stroke="#2874a6" stroke-width="0.8"/>
+<rect x="594.4" y="568.5" width="21.6" height="64.8" fill="#ffffff"/>
+<rect x="602.0" y="568.5" width="6.5" height="64.8" fill="#9fd0ff" stroke="#2874a6" stroke-width="0.8"/>
+<rect x="451.3" y="668.4" width="64.8" height="21.6" fill="#ffffff"/>
+<rect x="451.3" y="676.0" width="64.8" height="6.5" fill="#9fd0ff" stroke="#2874a6" stroke-width="0.8"/>
+<rect x="130.0" y="568.5" width="21.6" height="64.8" fill="#ffffff"/>
+<rect x="137.6" y="568.5" width="6.5" height="64.8" fill="#9fd0ff" stroke="#2874a6" stroke-width="0.8"/>
+<rect x="229.9" y="668.4" width="64.8" height="21.6" fill="#ffffff"/>
+<rect x="229.9" y="676.0" width="64.8" height="6.5" fill="#9fd0ff" stroke="#2874a6" stroke-width="0.8"/>
+<rect x="243.4" y="150.0" width="32.4" height="21.6" fill="#ffffff"/>
+<rect x="243.4" y="157.6" width="32.4" height="6.5" fill="#9fd0ff" stroke="#2874a6" stroke-width="0.8"/>
+<rect x="130.0" y="209.4" width="21.6" height="27.0" fill="#ffffff"/>
+<rect x="137.6" y="209.4" width="6.5" height="27.0" fill="#9fd0ff" stroke="#2874a6" stroke-width="0.8"/>
+<rect x="165.1" y="150.0" width="27.0" height="21.6" fill="#ffffff"/>
+<rect x="165.1" y="157.6" width="27.0" height="6.5" fill="#9fd0ff" stroke="#2874a6" stroke-width="0.8"/>
+<line x1="130.0" y1="124.0" x2="616.0" y2="124.0" stroke="#222"/>
+<line x1="130.0" y1="119.0" x2="130.0" y2="129.0" stroke="#222"/>
+<line x1="616.0" y1="119.0" x2="616.0" y2="129.0" stroke="#222"/>
+<text x="373.0" y="118.0" text-anchor="middle" font-size="11">9,00 м</text>
+<line x1="60.0" y1="150.0" x2="60.0" y2="690.0" stroke="#222"/>
+<line x1="55.0" y1="150.0" x2="65.0" y2="150.0" stroke="#222"/>
+<line x1="55.0" y1="690.0" x2="65.0" y2="690.0" stroke="#222"/>
+<text x="53.0" y="424.0" text-anchor="end" font-size="11">10,00 м</text>
+<text x="40" y="738.0" font-size="14" font-weight="bold">Експлікація (внутрішня площа, без стін)</text>
+<rect x="34" y="747.0" width="752" height="21" fill="#eee" opacity="0.7"/>
+<text x="40" y="762.0" font-size="11" font-weight="bold">№</text>
+<text x="78" y="762.0" font-size="11" font-weight="bold">Приміщення</text>
+<text x="250" y="762.0" font-size="11" font-weight="bold">Розмір, м</text>
+<text x="360" y="762.0" font-size="11" font-weight="bold">Площа, м²</text>
+<text x="450" y="762.0" font-size="11" font-weight="bold">Норма (ДБН В.2.2-15) і статус</text>
+<text x="40" y="784.0" font-size="11" fill="#000">1</text>
+<text x="78" y="784.0" font-size="11" fill="#000">Тамбур</text>
+<text x="250" y="784.0" font-size="11" fill="#000">1,5 × 2,2</text>
+<text x="360" y="784.0" font-size="11" fill="#000">3,30</text>
+<text x="450" y="784.0" font-size="11" fill="#000">≥ 1,5 × 2,2 м (п. 5.9) — OK</text>
+<text x="40" y="804.0" font-size="11" fill="#000">2</text>
+<text x="78" y="804.0" font-size="11" fill="#000">Кухня-вітальня</text>
+<text x="250" y="804.0" font-size="11" fill="#000">5,2 × 5,2</text>
+<text x="360" y="804.0" font-size="11" fill="#000">27,04</text>
+<text x="450" y="804.0" font-size="11" fill="#000">об'єднання допустиме з електроплитою і витяжкою (п. 5.19) — OK</text>
+<text x="40" y="824.0" font-size="11" fill="#000">3</text>
+<text x="78" y="824.0" font-size="11" fill="#000">Спальня 1</text>
+<text x="250" y="824.0" font-size="11" fill="#000">4,1 × 2,5</text>
+<text x="360" y="824.0" font-size="11" fill="#000">10,25</text>
+<text x="450" y="824.0" font-size="11" fill="#000">≥ 9 м² (п. 5.19) — OK</text>
+<text x="40" y="844.0" font-size="11" fill="#000">4</text>
+<text x="78" y="844.0" font-size="11" fill="#000">Спальня 2</text>
+<text x="250" y="844.0" font-size="11" fill="#000">4,1 × 2,5</text>
+<text x="360" y="844.0" font-size="11" fill="#000">10,25</text>
+<text x="450" y="844.0" font-size="11" fill="#000">≥ 9 м² (п. 5.19) — OK</text>
+<text x="40" y="864.0" font-size="11" fill="#000">5</text>
+<text x="78" y="864.0" font-size="11" fill="#000">Ванна</text>
+<text x="250" y="864.0" font-size="11" fill="#000">2,0 × 1,9</text>
+<text x="360" y="864.0" font-size="11" fill="#000">3,80</text>
+<text x="450" y="864.0" font-size="11" fill="#000">ванна ≥ 3,3 м² (п. 5.20) — OK</text>
+<text x="40" y="884.0" font-size="11" fill="#000">6</text>
+<text x="78" y="884.0" font-size="11" fill="#000">Туалет</text>
+<text x="250" y="884.0" font-size="11" fill="#000">1,0 × 1,9</text>
+<text x="360" y="884.0" font-size="11" fill="#000">1,90</text>
+<text x="450" y="884.0" font-size="11" fill="#000">туалет ≥ 1,5 м² (п. 5.20) — OK</text>
+<text x="40" y="904.0" font-size="11" fill="#000">7</text>
+<text x="78" y="904.0" font-size="11" fill="#000">Котельня</text>
+<text x="250" y="904.0" font-size="11" fill="#000">2,8 × 1,5</text>
+<text x="360" y="904.0" font-size="11" fill="#000">4,20</text>
+<text x="450" y="904.0" font-size="11" fill="#000">норми немає</text>
+<text x="40" y="924.0" font-size="11" fill="#000">8</text>
+<text x="78" y="924.0" font-size="11" fill="#000">Комора</text>
+<text x="250" y="924.0" font-size="11" fill="#000">2,0 × 1,5</text>
+<text x="360" y="924.0" font-size="11" fill="#000">3,00</text>
+<text x="450" y="924.0" font-size="11" fill="#000">норми немає</text>
+<text x="40" y="944.0" font-size="11" fill="#000">9</text>
+<text x="78" y="944.0" font-size="11" fill="#000">Коридор</text>
+<text x="250" y="944.0" font-size="11" fill="#000">3,4 × 1,5</text>
+<text x="360" y="944.0" font-size="11" fill="#000">5,10</text>
+<text x="450" y="944.0" font-size="11" fill="#000">ширина ≥ 1,5 м (п. 5.22) — OK</text>
+<text x="40" y="964.0" font-size="11" fill="#000">10</text>
+<text x="78" y="964.0" font-size="11" fill="#000">Передпокій</text>
+<text x="250" y="964.0" font-size="11" fill="#000">3,0 × 3,3</text>
+<text x="360" y="964.0" font-size="11" fill="#000">6,60</text>
+<text x="450" y="964.0" font-size="11" fill="#000">передпокій ширина ≥ 1,6 м (п. 5.22) — OK</text>
+<line x1="34" y1="974.0" x2="786" y2="974.0" stroke="#aaa"/>
+<text x="78" y="988.0" font-size="11" font-weight="bold">Сума приміщень</text>
+<text x="360" y="988.0" font-size="11" font-weight="bold">75,44 м²</text>
+<text x="78" y="1008.0" font-size="11">Внутрішня площа (8,2 × 9,2 м)</text>
+<text x="360" y="1008.0" font-size="11">75,44 м² (з перегородками)</text>
+<text x="78" y="1028.0" font-size="11">Площа забудови (9,0 × 10,0 м)</text>
+<text x="360" y="1028.0" font-size="11">90,00 м²</text>
+<text x="40" y="1062.0" font-size="11" fill="#777">Плани згенеровано розв'язувачем обмежень за мінімумами ДБН В.2.2-15. Двері, вікна, шафа розміщені автоматично й умовно.</text>
+<text x="40" y="1078.0" font-size="11" fill="#777">Не перевірено: освітленість, висота приміщень, товщина перегородок, протипожежні вимоги, газове обладнання. Схема — ескіз, не робоче креслення.</text>
+</svg>
