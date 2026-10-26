@@ -23,6 +23,7 @@
 
 ## Нотатки
 
+- [status.md](status.md) — статус, прийняті рішення, що не зроблено
 - [load-estimate.md](load-estimate.md) — навантаження й автономність
 - [sizing-and-economics.md](sizing-and-economics.md) — розмір, сезонність, бюджет, окупність
 - [green-tariff-rules.md](green-tariff-rules.md) — правила, тарифи, податки, Net Billing
